@@ -1,0 +1,22 @@
+{
+  "name": "vue-stateful",
+  "version": "0.0.1",
+  "description": "Lightweight global store for Vue.js",
+  "main": "vue-stateful.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makzimko/vue-stateful.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "store",
+    "redux"
+  ],
+  "author": "Maxim Tkachuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makzimko/vue-stateful/issues"
+  },
+  "homepage": "https://github.com/makzimko/vue-stateful"
+}
